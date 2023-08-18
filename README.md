@@ -14,11 +14,11 @@ Fully responsive design ensuring optimal user experience across devices.
 
 Technologies Used:
 
-Node.js
-Express
-MongoDB
-Socket.io
-EJS (Embedded JavaScript)
+Node.js,
+Express,
+MongoDB,
+Socket.io,
+EJS (Embedded JavaScript),
 SCSS (Sass)
 
 
